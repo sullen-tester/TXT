@@ -1,0 +1,4 @@
+Name: John Doe,
+Age: 27,
+Number of pets: 4,
+Salary: 10000 $
